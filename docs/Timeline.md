@@ -17,7 +17,7 @@ Large Analytical Engines remain too costly for most private users, leading to ce
 Engine houses almost immediately begin accepting particulars and returning results by electric telegraph. Integration is initially entirely manual, with received telegrams transcribed into pattern selections and store settings by clerks.
 
 ### 1856 - Lovelace Card Standard
-A standardised system for encoding instructions and data on two punched card chains develops from the earlier work of Babbage and Lovelace. Compatible card-work commodifies computing by allowing patterns to be exchanged between Engines, and encourages further development of reusable Pattern Libraries. The distinction between an Engine's physical construction and the patterns used to control it become increasingly important.
+A standardised system for encoding instructions and data on two sets of punched cards develops from the earlier work of Babbage and Lovelace. Compatible card-work commodifies computing by allowing patterns to be exchanged between Engines, and encourages further development of reusable Pattern Libraries. The distinction between an Engine's physical construction and the patterns used to control it become increasingly important.
 
 ### Late 1850s-1860s - Industrial Application
 Analytical machinery spreads beyond pure scientific calculations. Textile manufacturers use engines to calculate and prepare Jacquard patterns, eventually integrating computation directly with automatic looms. Railways, insurers, banks, and manufacturers begin using engines for scheduling, accounting, statistics, and records processing.
