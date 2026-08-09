@@ -14,7 +14,7 @@ N.B.: The terms listed herein are fictionalised and do not represent historic fa
 | Figure Axis | Vertical column of stacked figure wheels comprising a data register, also represents the native number size that an analytical engine can process as a single unit | Historical |
 | Figure Wheel | Physical cogwheel used to store the data representing one figure | Historical | 
 | Flag | Two-state element for storing and indicating condition and control states, values denoted as 'high' and 'low' based on flag position | Invented |
-| Give (off) | Denotes the act of reading data from a column | Invented |
+| Give (off) | Denotes the act of reading data from a column | Historical |
 | J-code | Standardised programming language for encoding geometric operations for Jacquard looms | Invented |
 | Ingress | Columns storing input operands to the mill | Historical |
 | Mill | Centralised data processing unit, performs all arithmetic and flow control operations | Historical |
