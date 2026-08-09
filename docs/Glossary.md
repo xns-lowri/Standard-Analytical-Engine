@@ -3,17 +3,19 @@ N.B.: The terms listed herein are fictionalised and do not represent historic fa
 
 | Term | Meaning | Status |
 |------|---------|--------|
-| Axis | See Figure Axis | Historical, avoided |
+| Axis | See Figure Axis | Historical |
 | Barrel | Mechanical control for micro-sequencing of operations | Historical |
 | Branch Comb | Mechanism for conditional flow to one-of-ten destinations selected by the value of a stored figure | Invented |
 | Cage | One decimal-place 'slice' of an analytical engine | Historical |
-| Carriage | Carry-propagation mechanism | Historical |
+| Carriage | Carry-propagation mechanism | Historical, embellished |
 | Column | See Figure Axis, also commonly used as shorthand for denoting store locations | Historical, embellished |
 | Egress | Column storing output (result) from mill operations | Historical |
 | Figure | Single decimal digit, smallest unit of data natively stored in an analytical engine | Historical |
 | Figure Axis | Vertical column of stacked figure wheels comprising a data register, also represents the native number size that an analytical engine can process as a single unit | Historical |
+| Figure Engine | Analytical engine working on a radix (base) of 10, retroactively applied to such engines alongside the rising interest in flag engines | Invented |
 | Figure Wheel | Physical cogwheel used to store the data representing one figure | Historical | 
 | Flag | Two-state element for storing and indicating condition and control states, values denoted as 'high' and 'low' based on flag position | Invented |
+| Flag Engine | Analytical engine working on a radix (base) of 2, originally a pejorative term used by proponents of decimal computing that later became commonplace | Invented |
 | Give (off) | Denotes the act of reading data from a column | Historical |
 | J-code | Standardised programming language for encoding geometric operations for Jacquard looms | Invented |
 | Ingress | Columns storing input operands to the mill | Historical |
