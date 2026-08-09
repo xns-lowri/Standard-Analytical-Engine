@@ -20,7 +20,7 @@ Engine houses almost immediately begin accepting particulars and returning resul
 A standardised system for encoding instructions and data on two sets of punched cards develops from the earlier work of Babbage and Lovelace. Compatible card-work commodifies computing by allowing patterns to be exchanged between Engines, and encourages further development of reusable Pattern Libraries. The distinction between an Engine's physical construction and the patterns used to control it become increasingly important.
 
 ### Late 1850s-1860s - Industrial Application
-Analytical machinery spreads beyond pure scientific calculations. Textile manufacturers use engines to calculate and prepare Jacquard patterns, eventually integrating computation directly with automatic looms. Railways, insurers, banks, and manufacturers begin using engines for scheduling, accounting, statistics, and records processing.
+Analytical machinery spreads beyond pure scientific calculations. Textile manufacturers use engines to calculate and prepare Jacquard patterns. Railways, insurers, banks, and manufacturers begin using engines for scheduling, accounting, statistics, and records processing.
 
 ### Late 1850s-1860s - Automatic Telegraphic Ingress
 Experimental interfaces allow specially formatted telegraphic traffic to be recorded directly onto punched media suitable for Engine input. High-volume engine houses implement dedicated telegraph instruments allowing remote offices to send pre-prepared work requests, particulars, and even full patterns for processing. Results are returned when ready, with some branch offices employing sophisticated automatic printing apparatus for handling the reception, formatting, and printing of results sent from the engine house.
@@ -32,5 +32,18 @@ Commercial makers challenge Babbage's enormous native word widths. A compact six
 Standardised designs begin to replace individually fitted analytical engines as private enterprises increasingly adopt more affordable analytical engines for serving routine computational tasks in-house. 
 
 ### Late 1860s - Standard Eight-Figure Architecture Adopted
-The emerging industry converges on eight-figure native words as a useful compromise between complexity and performance. Standards establish common dimensions and interfaces for store and mill equipment. The design proves inexpensive enough to manufacture in quantity yet performant enough to be commercially viable.
+The emerging industry converges on eight-figure native words as a useful compromise between complexity and performance. Standards establish common dimensions and interfaces for store and mill equipment, and importantly establish multiword arithmetic by explicitly defining carry state as a control signal accessible to the running pattern. The design proves inexpensive enough to manufacture in quantity yet performant enough to be commercially viable.
+
 TODO section to be updated following experiments and analysis of different architectures - column height (word width) might be too narrow if adding machines are anything to go by, but also 8 figure is equivalent to ~27bit so probably fine for general purpose computing given 8-bit micros rule the world and early computing research was mainly focused on mathematical computation.
+
+### 1874 - Carriage Interface Standardised
+A common interface for carry, borrow and arithmetic-condition flags is adopted between Mill generations. Mechanical flags, conventionally described as HIGH or LOW according to their physical positions, increasingly become a standard control abstraction distinct from decimal figures.
+
+### 1870s - Native Decimal Control Techniques Mature
+Engine designers increasingly seek to improve the branching performance of their products. Noticing the trend in using single figures as representations of enumerated states, one manufacturer is granted a patent for a  device called a 'branch comb'. This obscure device, which selects one of up to ten control paths directly from the position of a figure wheel, quickly becomes a characteristic feature of decimal engine architecture. 
+
+### 1878 - Carwen ???
+"the present"
+Standard eight-figure analytical engine, the target development and kernel of educational value behind this silly alt history story.
+
+TODO also: thread in the development of divided- and common-store designs, and instruction caching strategies.
