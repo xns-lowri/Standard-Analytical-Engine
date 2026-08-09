@@ -1,4 +1,5 @@
 # Development of the Analytical Engine Industry, 1837-1908:
+N.B.: The timeline described herein is fictionalised and does not represent historic fact. Please do not use this repo as a source for any historical research!
 
 ## 1837 - Babbage's Experimental Analytical Engine
 Charles Babbage sets out the architecture of the Analytical Engine: a separate Store and Mill, decimal figure wheels, punched-card control, automatic sequencing, and general-purpose arithmetic. Early designs are extremely ambitious, using very wide native numbers and elaborate mechanical arithmetic.
