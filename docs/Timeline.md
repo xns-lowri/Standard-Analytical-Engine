@@ -25,6 +25,12 @@ Analytical machinery spreads beyond pure scientific calculations. Textile manufa
 ### Late 1850s-1860s - Automatic Telegraphic Ingress
 Experimental interfaces allow specially formatted telegraphic traffic to be recorded directly onto punched media suitable for Engine input. High-volume engine houses implement dedicated telegraph instruments allowing remote offices to send pre-prepared work requests, particulars, and even full patterns for processing. Results are returned when ready, with some branch offices employing sophisticated automatic printing apparatus for handling the reception, formatting, and printing of results sent from the engine house.
 
-### 1863 - First Commercial Engine
-Commercial makers challenge Babbage's enormous native word widths. A compact four-figure architecture demonstrates that extended precision can be obtained through multiple store columns and additional processing, greatly reducing mechanical complexity. Standardised replaceable cages, store mechanisms, and mill components begin replacing individually fitted construction as private enterprises increasingly invest in their own analytical engines. 
+### 1862 - First Commercial Engines
+Commercial makers challenge Babbage's enormous native word widths. A compact six-figure architecture demonstrates to a captivated audience at the London International Exhibition that an analytical engine the size of a large dining table could perform extended precision computation with reasonable performance by making heavy use of multiple store columns and additional processing. Other exhibitors show off the latest developments in maintainability and modular design with standardised store and mill components and replaceable cage assemblies. Also notable was Thomas F. Wilkinson & Co. taking the show by storm when they unveiled their ground-breaking Graphical Patterning Unit, used to interactively produce pattern designs for their newest range of engine-controlled Jacquard looms.
 
+### 1860s - Early Adoption
+Standardised designs begin to replace individually fitted analytical engines as private enterprises increasingly adopt more affordable analytical engines for serving routine computational tasks in-house. 
+
+### Late 1860s - Standard Eight-Figure Architecture Adopted
+The emerging industry converges on eight-figure native words as a useful compromise between complexity and performance. Standards establish common dimensions and interfaces for store and mill equipment. The design proves inexpensive enough to manufacture in quantity yet performant enough to be commercially viable.
+TODO section to be updated following experiments and analysis of different architectures - column height (word width) might be too narrow if adding machines are anything to go by, but also 8 figure is equivalent to ~27bit so probably fine for general purpose computing given 8-bit micros rule the world and early computing research was mainly focused on mathematical computation.
