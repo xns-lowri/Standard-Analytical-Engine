@@ -1,4 +1,4 @@
-# Development of the Analytical Engine Industry, 1837-1908:
+# Development of the Analytical Engine Industry, 1837-Present:
 N.B.: The timeline described herein is fictionalised and does not represent historic fact. Please do not use this repo as a source for any historical research!
 
 ### 1837 - Babbage's Experimental Analytical Engine
