@@ -1,4 +1,5 @@
 # Glossary of Terms:
+N.B.: The terms listed herein are fictionalised and do not represent historic fact. Please do not use this repo as a source for any historical research!
 
 | Term | Meaning | Status |
 |------|---------|--------|
