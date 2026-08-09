@@ -14,6 +14,7 @@ N.B.: The terms listed herein are fictionalised and do not represent historic fa
 | Figure Axis | Vertical column of stacked figure wheels comprising a data register, also represents the native number size that an analytical engine can process as a single unit | Historical |
 | Figure Wheel | Physical cogwheel used to store the data representing one figure | Historical | 
 | Flag | Two-state element for storing and indicating condition and control states, values denoted as 'high' and 'low' based on flag position | Invented |
+| Give (off) | Denotes the act of reading data from a column | Invented |
 | J-code | Standardised programming language for encoding geometric operations for Jacquard looms | Invented |
 | Ingress | Columns storing input operands to the mill | Historical |
 | Mill | Centralised data processing unit, performs all arithmetic and flow control operations | Historical |
@@ -21,6 +22,7 @@ N.B.: The terms listed herein are fictionalised and do not represent historic fa
 | Preserve | Non-destructive data transfer operation wherein the value read from a figure is restored after reading | Historical |
 | Rack | Toothed linear transfer member for a single figure | Historical |
 | Rack Way | Vertical collection of racks comprising a full data transfer path between the store and the mill | Invented |
+| Receive | Denotes the act of storing data in a column | Historical | 
 | Reduce | Destructive transfer of data from figure wheels, figures are always reduced to zero by the action of reading the stored value | Historical |
 | Restore | Replacement of original value of a figure following a destructive read operation | Historical |
 | Store | Collection of columns (figure axes) comprising the working memory available to an analytical engine | Historical |
