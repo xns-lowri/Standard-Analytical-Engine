@@ -26,6 +26,24 @@ Take (Source -> Mill), Give (Mill -> Destination)
   * Destination engaged = take value back from destination (undo take, illegal if not engaged during emission?). Not engaged = leave value in destination. 
 * Direction: Gearing between Mill/Rack and Rack/(Source/Destination) is reversed based on direction of movement.
 
+### Performing Common Operations:
+
+* Zero Column: Give value to rack on emission, no destination. Disconnect source on restoring.
+* Move Column: Zero destination. Give value to rack/destination on emission. Disconnect source and destination on restoring.
+* Copy Column: Zero destination. Give value to rack/destination on emission. Disconnect destination but take back value from rack on restoring.
+* Signed add/subtract (rack-width): Move/copy first operand to mill. Move/copy second operand to mill, selecting add/sub, and enabling correction, complement, sign flip, and (optionally) flag updates.
+
+## Operation Card Fields
+
+* Control:
+  * Addition/Subtraction
+* Condition:
+  * Always, (Never/Halt?), Z/!Z, S/!S, O/!O, CB/!CB
+* Endpoint type:
+  * Store, Particulars
+* 
+* 
+
 
 ## Ideas for pondering
 
