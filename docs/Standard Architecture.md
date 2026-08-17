@@ -74,17 +74,24 @@ Take (Source -> Mill), Give (Mill -> Destination)
   * Carry/Borrow: 0, 1, Flag
   * Sign: +, -, Flag
 * Control:
-  * ~~Incoming/Outgoing (mill-referenced)~~
+  * Incoming/Outgoing Gearing (mill-referenced)
   * Correct for Carry/Borrow yes/no
-  * Update flags yes/no
-  * Update sign yes/no
+  * Update Flags yes/no
+  * Update Column sign yes/no
+  * Correct for Terminal Borrow (Normalise after sign-change) yes/no
 * Endpoint type:
   * Store, Particulars, Correspondence, Mill, Card-Immediate
-* Endpoint location:
+* Endpoint identifier or Immediate lower half:
+  * Number 0000 - 9999
+* Endpoint location or Immediate upper half:
   * Number: 0000 - 9999
 * Mill location:
   * Number 00 - 99
-* 
+* Reduce stroke engagement:
+  * Engage destination yes/no
+* Restore stroke engagement:
+  * Engage source yes/no
+  * Engage destination yes/no
 
 
 ## Ideas for pondering
