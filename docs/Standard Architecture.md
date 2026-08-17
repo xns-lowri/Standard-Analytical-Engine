@@ -53,6 +53,7 @@ Take (Source -> Mill), Give (Mill -> Destination)
 
 ## Accumulating Mill Column - Warning Flags
 
+| Flag | Name | Description |
 |---|---|---|
 | Z | Zero | Raised if column holds 0 |
 | S | Sign | Raised if column holds a negative value < 0 |
