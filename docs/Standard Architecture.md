@@ -50,8 +50,11 @@ Take (Source -> Mill), Give (Mill -> Destination)
 ### Accumulating Mill Column
 
 * Addition and Subtraction by taking of values from Rack
+* Correction of calculated values by carriage/borrow
+* Complementing and sign change of values crossing zero
+* Setting of flag states corresponding to properties of a calculated value
 
-## Accumulating Mill Column - Warning Flags
+#### Warning Flags
 
 | Flag | Name | Description |
 |---|---|---|
@@ -66,7 +69,7 @@ Take (Source -> Mill), Give (Mill -> Destination)
 * Control:
   * Addition/Subtraction
 * Condition:
-  * Always, (Never/Halt?), Z/!Z, S/!S, O/!O, CB/!CB
+  * Always, (Never/Halt?), Z/!Z, S/!S, CB/!CB
 * Endpoint type:
   * Store, Particulars
 * 
