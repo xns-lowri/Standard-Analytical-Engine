@@ -72,7 +72,7 @@ Take (Source -> Mill), Give (Mill -> Destination)
 * Operation:
   * Addition/Subtraction Requested
   * Carry/Borrow: 0, 1, Flag
-  * Sign: +, -, Flag
+  * Sign: +, -, Flag, Retain, Negate
 * Control:
   * Incoming/Outgoing Gearing (mill-referenced)
   * Correct for Carry/Borrow yes/no
